@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login Application</string>
+    <string-array name="School_name">
+        <item>Shayam Prasad</item>
+        <item>Poorna Prajna Public School</item>
+    </string-array>
+    <string-array name="Address">
+        <item>Lodhi Road, New delhi</item>
+        <item>Vasant Kunj, New Delhi-70</item>
+    </string-array>
+</resources>
